@@ -19,6 +19,8 @@ public class suma {
 		valorFinal = valorUno + valorDos;
 		
 		System.out.println("El resultado de la suma es: " + valorFinal);
+		
+		System.out.println("Nueva Línea");
 
 	}
 
